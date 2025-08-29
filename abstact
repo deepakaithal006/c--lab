@@ -6,7 +6,7 @@ abstract class Shape
     public abstract double
         calculatePerimeter();
 }
-public double class Circle:Shape
+ class Circle:Shape
  {
     private double radius;
     public Circle(double r)
